@@ -1,0 +1,13 @@
+E:\C#\Squares\Squares\bin\Debug\Squares.exe.config
+E:\C#\Squares\Squares\bin\Debug\Squares.exe
+E:\C#\Squares\Squares\bin\Debug\Squares.pdb
+E:\C#\Squares\Squares\bin\Debug\sfml-audio.dll
+E:\C#\Squares\Squares\bin\Debug\sfml-graphics.dll
+E:\C#\Squares\Squares\bin\Debug\sfml-system.dll
+E:\C#\Squares\Squares\bin\Debug\sfml-window.dll
+E:\C#\Squares\Squares\obj\Debug\Squares.csproj.AssemblyReference.cache
+E:\C#\Squares\Squares\obj\Debug\Squares.csproj.SuggestedBindingRedirects.cache
+E:\C#\Squares\Squares\obj\Debug\Squares.csproj.CoreCompileInputs.cache
+E:\C#\Squares\Squares\obj\Debug\Squares.csproj.CopyComplete
+E:\C#\Squares\Squares\obj\Debug\Squares.exe
+E:\C#\Squares\Squares\obj\Debug\Squares.pdb
